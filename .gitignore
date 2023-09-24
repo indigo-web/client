@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# IDEA stuff
+.idea
+
+# Internal interactive files
+cmd
